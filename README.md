@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pyprese
 ```bash
 pip install pypresence
 ```
-Run the file :)
+Run the `main.py` file :)
 
 
 ## Contributing
