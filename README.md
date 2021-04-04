@@ -7,6 +7,12 @@ Custom rich presence for CubeCraft MC server
 
 ## How to run
 
+### .exe
+You can use download the main.exe file and just run it
+
+### Source
+Or you cal download the source code and run it yourself
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pypresence.
 
 ```bash
