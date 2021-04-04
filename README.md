@@ -2,8 +2,6 @@
 
 Custom rich presence for CubeCraft MC server
 
-![Presence Example](https://ctrlv.cz/q48N)
-
 ### Current Version
 `0.0.1`
 
