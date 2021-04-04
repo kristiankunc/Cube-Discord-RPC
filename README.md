@@ -1,6 +1,6 @@
 # CubeCraft Discord RPC
 
-Custom rich presence for CuebCraft MC server
+Custom rich presence for CubeCraft MC server
 
 ### Current Version
 `0.0.1`
