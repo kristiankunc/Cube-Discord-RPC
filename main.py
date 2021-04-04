@@ -4,6 +4,8 @@ import os
 import json
 import psutil
 
+print("Cube RPC started")
+
 appdata = os.getenv('APPDATA')
 launcher_data_fullpath = appdata + "\.minecraft\launcher_profiles.json"
 logs_fullpath = appdata + "\.minecraft\logs\latest.log"
@@ -18,7 +20,6 @@ with open(logs_fullpath,'r') as f:
         if "Connecting to play.cubecraft.net., 25565" in item:
             if start_time == None:
                 start_time = time.time()
-            print(":)")
 
 def getUserName():
     with open(launcher_data_fullpath, 'r') as f:
