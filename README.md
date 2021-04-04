@@ -2,7 +2,7 @@
 
 Custom rich presence for CubeCraft MC server
 
-Shows a cool Rich Presence on your Discord account.
+![Presence Example](https://ctrlv.cz/q48N)
 
 ### Current Version
 `0.0.1`
