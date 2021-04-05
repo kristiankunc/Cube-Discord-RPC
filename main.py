@@ -53,7 +53,7 @@ def getMinigame():
 
                     elif itempos == 3:
                         found = True
-                        minigame == "MinerWare"
+                        minigame = "MinerWare"
 
                     elif itempos == 4:
                         found = True
