@@ -12,7 +12,7 @@ Custom rich presence for CubeCraft MC server
 ### .exe
 You can use download the main.exe file and just run it
 
-if you have issues running the exe, install python and
+if you have issues running the exe, install python and run
 ```bash
 pip install pypresence
 ```
