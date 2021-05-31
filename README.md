@@ -2,7 +2,7 @@
 
 Custom rich presence for CubeCraft MC server
 
-## DEVELOPMENT MOVED TO NEW [REPO](https://github.com/KristN1/CubeCraft-Discord-Presence)
+## - - - - - - DEVELOPMENT MOVED TO NEW [REPO](https://github.com/KristN1/CubeCraft-Discord-Presence) - - - - - - 
 
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
